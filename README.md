@@ -107,20 +107,18 @@ Analyzes:
 
 ### KPI Dashboard
 
-![KPI Dashboard](Screenshots/kpi_dashboard.png)
-
+<img width="1366" height="720" alt="Screenshotskpi_dashboard png" src="https://github.com/user-attachments/assets/1604e70c-fd6e-40f5-8854-e43af5aded63" />
 ### Employee Attrition Analysis
 
-![Employee Attrition Analysis](Screenshots/attrition_dashboard.png)
+<img width="1366" height="720" alt="Screenshotsattrition_dashboard png" src="https://github.com/user-attachments/assets/a3ff1a9c-b867-47f2-a899-762b93b6e630" />
 
 ### Employee Satisfaction
 
-![Employee Satisfaction](Screenshots/satisfaction_dashboard.png)
+<img width="1366" height="720" alt="Screenshotssatisfaction_dashboard png" src="https://github.com/user-attachments/assets/6314d1c3-94de-4f44-abe4-205c745117db" />
 
 ### Compensation & Career
 
-![Compensation & Career](Screenshots/compensation_dashboard.png)
-
+<img width="1366" height="720" alt="Screenshotscompensation_dashboard png" src="https://github.com/user-attachments/assets/6d0b293d-d212-4bdd-a6b2-88726a64b359" />
 ---
 
 ## SQL Analysis
@@ -182,12 +180,12 @@ Based on the analysis:
 
 ```
 HR Analytics
-│
-├── Dataset
-├── Documentation
-├── Excel
-├── SQL
-├── Power BI
-├── Screenshots
-└── README.md
+
+Dataset
+Documentation
+Excel
+SQL
+Power BI
+Screenshots
+README.md
 ```
